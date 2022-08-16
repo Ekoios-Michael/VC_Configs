@@ -6,10 +6,10 @@
     "https://mainnet.infura.io/v3/f8ad215b76e548bfafe2a3fe4b180cb5",
   "apiKey": "SRDGFVX6QGB3DVNG5NBQ1DW7Z277UIX4KE",
   "eth": {
-    "api": "https://api.etherscan.io",
-    "broadcast": "https://etherscan.io",
-    "providerName": "homestead",
-    "provider": "https://mainnet.infura.io/v3/f8ad215b76e548bfafe2a3fe4b180cb5"
+    "api": "https://api-rinkeby.etherscan.io",
+    "broadcast": "https://rinkeby.etherscan.io/",
+    "providerName": "rinkeby",
+    "provider": "https://rinkeby.infura.io/v3/9dabbcf70346407aaf52c7ed85c3e1dd"
   },
   "btc": {
     "api": "http://3.35.148.37:8200",
