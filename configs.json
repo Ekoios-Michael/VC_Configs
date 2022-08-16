@@ -18,8 +18,8 @@
     "feeRate": "http://3.35.148.37:8332"
   },
   "biv": {
-    "api": "https://api.bitcoin-value.io",
-    "insight": "https://explorer.bitcoin-value.io"
+    "api": "https://biv-priv-api.ekoios.vn/",
+    "insight": "https://biv-priv-api.ekoios.vn/"
   },
   "sendAddressEsitmateGas": "0x2CCD217e3Ff4cD500b5042AEB7be857F7482f576",
   "receiveAddressEstimateGas": "0xABe11f00F542e3b620c606db49Bc72dF45eF0cfe"
